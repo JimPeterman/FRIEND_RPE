@@ -22,13 +22,13 @@ I also explored potential trends in those who reported low peak RPE values (<17)
 ## The Final Product/Results:
 The mean and median peak RPE for each sex, age group, and test mode was between 18 and 19, consistent with traditional definitions of sufficient maximal effort. The figure below illustrates the distribution of peak RPE values across combined treadmill and cycle ergometer CPX:
 
-![figure_1](images/fig_1.tif)
+![figure_1](images/fig_1.tiff)
 
 Some statistically significant differences were observed in peak RPE between age groups and between sexes. However, these small, statistically significant differences in peak RPE are presumably due to the substantially large sample size (9,551 tests) and it is unlikely that these differences are clinically relevant. 
 
 Lastly, statistically significant correlations were found between peak RPE and other exercise test variables, including VO<sub>2max</sub> and peak heart rate as a percentage of age-predicted max (highlighted below). Again, despite the statistical significance, the correlations were weak and overall suggest peak RPE is largely independant of these variables.
 
-![figure_2](images/fig_2.tif)
+![figure_2](images/fig_2.tiff)
 
 Overall, this study produced reference standards for peak RPE when using the 6 – 20 Borg scale and found consistency in peak RPE responses during maximal exercise testing. I summarized these findings and submitted the manuscript to Medicine & Science in Sports & Exercise where it was accepted for publication following peer review by experts in the field [the publication can be found here](https://journals.lww.com/acsm-msse/Abstract/9900/Reference_Standards_for_Peak_Rating_of_Perceived.105.aspx). Following publication, these reference standards may improve exercise test interpretations, especially in settings that rely on subjective indicators like RPE to determine if a participant/patient achieved maximal effort.
 
