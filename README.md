@@ -20,9 +20,9 @@ Reference standards were created along with summaries of other related variables
 I also explored potential trends in those who reported low peak RPE values (<17) and explored longitudinal trends in RPE for those who performed two exercise tests using the same mode. Nothing particularly noteworthy was observed and the results were not included in the subsequent publication.
 
 ## The Final Product/Results:
-The mean and median peak RPE for each sex, age group, and test mode was between 18 and 19, consistent with traditional definitions of sufficient maximal effort. The figure below illustrates the distribution of peak RPE values across combined treadmill and cycle ergometer CPX:
+The figure below illustrates the distribution of peak RPE values across combined treadmill and cycle ergometer exercise tests. Further, the mean and median peak RPE for each sex, age group, and test mode was between 18 and 19, consistent with traditional definitions of sufficient maximal effort (test modes were combined for the figure below). 
 
-![figure_1](images/fig_1.png)
+![distribution_violin_plots](images/distribution_violin_plots.png)
 
 Some statistically significant differences were observed in peak RPE between age groups and between sexes. However, these small, statistically significant differences in peak RPE are presumably due to the substantially large sample size (9,551 tests) and it is unlikely that these differences are clinically relevant. 
 
